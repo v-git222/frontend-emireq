@@ -1,6 +1,6 @@
 // src/components/NewsLetterCTA.jsx
 import React, { useState } from "react";
-import "./NewsletterCTA.css";
+import "../landing page/NewsLetterCTA.css";
 
 /**
  * NewsletterCTA
