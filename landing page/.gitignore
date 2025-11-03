@@ -7,3 +7,4 @@ build/
 
 # Distribution zip
 emireq-landing-page-dist.zip
+.vercel
